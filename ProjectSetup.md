@@ -22,3 +22,16 @@ cd to root
 ```bash
   dotnet sln add ./Trebuchet/Trebuchet.csproj
 ```
+
+### Run your project
+
+```bash
+  dotnet run
+```
+
+### Build your project 
+
+```bash
+  dotnet build
+```
+
